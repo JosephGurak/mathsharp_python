@@ -1,6 +1,6 @@
 LICENSE
 README.md
-main.py
+basic.py
 pyproject.toml
 mathsharp.egg-info/PKG-INFO
 mathsharp.egg-info/SOURCES.txt
